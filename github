@@ -1,1 +1,9 @@
 git clone https://github.com/vnagidi/angular.git
+
+git status
+
+git add filename   # git add folderName
+
+git commit -m 'first commit' filename   # git commit -am 'message'
+
+git push origin branchName
