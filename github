@@ -11,3 +11,9 @@ git push origin branchName
 git pull origin branchName
 
 123456789
+
+git branch
+
+git branch branchName   # creation
+
+git checkout branchName # change branch
